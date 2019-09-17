@@ -10,7 +10,8 @@ public class Upfilechrome1 {
 
 	public static void main(String[] args) throws IOException {
 		
-		System.out.println("transfering the code from github to eclipse");
+		System.out.println("transferring from github by creating our own new branch");
+		System.out.println("transfering the code from github to eclipse in master");
 		System.out.println("auto it git hub");
 		System.setProperty("webdriver.chrome.driver", "G:\\Mams lecture practicals\\selenium exes file and jar files\\chromedriver_win32 (1)\\chromedriver.exe");
 		WebDriver driver=new ChromeDriver();
